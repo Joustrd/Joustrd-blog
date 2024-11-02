@@ -1,6 +1,6 @@
 ---
-title: "TEST : This post doesn't have any content"
+title: "This post doesn't have any content"
 description: "This post is purely for testing the table of content, which should not be rendered"
-publishDate: "01 Nov 2024"
+publishDate: "22 Feb 2023"
 tags: ["test", "toc"]
 ---
